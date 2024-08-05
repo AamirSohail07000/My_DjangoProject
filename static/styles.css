@@ -1,0 +1,22 @@
+/* static/css/styles.css */
+/* static/css/styles.css */
+body {
+  background-color: rgb(243, 252, 251);
+}
+
+.carousel-item img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 59%; /* Adjust the width to the desired ratio */
+  height: auto; /* Maintain aspect ratio */
+}
+/* static/css/styles.css */
+
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%; /* Adjust the width to the desired ratio */
+  height: auto; /* Maintain aspect ratio */
+}
